@@ -62,4 +62,31 @@
 ## Video Demo
  https://drive.google.com/drive/folders/1koy0HBHjiX0gYPEnScj5W7YxiISHcJJb?usp=sharing
 
- 
+## Screenshots
+
+#### Login Page
+![Login Page](screenshots/login.png)
+
+#### Dashboard Overview
+![Dashboard Overview](screenshots/overview.png)
+
+#### Books Collection
+![Books Collection](screenshots/books.png)
+
+#### Book Management Panel
+![Book Management Panel](screenshots/book%20management.png)
+
+#### Borrowings Log
+![Borrowings Log](screenshots/borrowings.png)
+
+#### Members Directory
+![Members Directory](screenshots/members.png)
+
+#### Member Profile Example
+![Member Profile Example](screenshots/member%20example.png)
+
+## Future Improvements
+* Integrating Barcode Scanners
+* Real-time automated emails for overdue borrowers
+* Support for digital book reservations and queues
+* Online payment for membership
