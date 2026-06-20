@@ -6,6 +6,7 @@
  Web Systems
 
 ### Members
+
  * Vincent Mago
  * John Carlo Dagoy
  * Mark Jayson Galarpe
